@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.abacuz</groupId>
 	<artifactId>greet</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>greet</name>
 	<description>Greeting springboot microservice</description>
 	<properties>
